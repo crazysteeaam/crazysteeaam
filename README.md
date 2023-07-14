@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=crazysteeaam&count_private=true&show_icons=truelayout=compact" height="150"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazysteeaam&layout=compact" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=crazysteeaam&count_private=true&show_icons=truelayout=compact" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazysteeaam&layout=compact" height="150">
