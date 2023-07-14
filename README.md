@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on Computer Vision.
 - 😄 I'm interested in Full Stack Engineering, Design Engineering & Project Managing.
 - 📫 How to reach me: jerryxuzhengjie@gmail.com.
+- 🌱 Be happy everyday
 
 <!--
 **crazysteeaam/crazysteeaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
