@@ -1,6 +1,6 @@
-### Hi there 👋
-
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=crazysteeaam&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+### Hi there 👋
 
 - 🔭 I’m currently working on Computer Vision.
 - 😄 I'm interested in Full Stack Engineering, Design Engineering & Project Managing.
