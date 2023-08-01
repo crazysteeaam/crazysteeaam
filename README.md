@@ -5,7 +5,7 @@
 - 📫 How to reach me: jerryxuzhengjie@gmail.com.
 - 🌱 Be happy everyday
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=crazysteeaam.ObjectOrientedwithPython&right_color=red" />
+<img src="https://komarev.com/ghpvc/?username=crazysteeaam&color=blue" />
 
 <!--
 **crazysteeaam/crazysteeaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
